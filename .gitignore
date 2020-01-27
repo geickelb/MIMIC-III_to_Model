@@ -126,3 +126,4 @@ dmypy.json
 
 # data importing scripts
 making_data/
+notebooks/hsip442/*
